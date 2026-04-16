@@ -22,7 +22,6 @@ Dataset is not included due to size limitations,the dataset is hosted externally
 - Uncleaned Dataset: https://drive.google.com/file/d/1QBWdGE4PkaipPs_QnB7l2WsAaE0vOtda/view?usp=sharing
 
 ## 🚀 How to Run
-## 🚀 How to Run
 
 1. Clone the repository:
    git clone https://github.com/akshithgoud02/Zomato-Data-Analytics.git
@@ -34,4 +33,4 @@ Dataset is not included due to size limitations,the dataset is hosted externally
 3. Download dataset from links provided above and place in project folder.
 
 4. Run the script:
-   python pydataanalysis.py
+   python pydatanalysis.py
