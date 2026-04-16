@@ -22,7 +22,16 @@ Dataset is not included due to size limitations,the dataset is hosted externally
 - Uncleaned Dataset: https://drive.google.com/file/d/1QBWdGE4PkaipPs_QnB7l2WsAaE0vOtda/view?usp=sharing
 
 ## 🚀 How to Run
-1. Install dependencies:
+## 🚀 How to Run
+
+1. Clone the repository:
+   git clone https://github.com/akshithgoud02/Zomato-Data-Analytics.git
+   cd Zomato-Data-Analytics
+
+2. Install dependencies:
    pip install pandas numpy
-2. Run the script:
-   python pydatanalysis.py
+
+3. Download dataset from links provided above and place in project folder.
+
+4. Run the script:
+   python pydataanalysis.py
