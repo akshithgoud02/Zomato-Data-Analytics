@@ -1,0 +1,9 @@
+.venv/
+.idea/
+__pycache__/
+*.pyc
+.env
+report/
+zomato data analytics.txt
+cleaned zomato dataset.csv
+uncleaned zomato dataset.csv
