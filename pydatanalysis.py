@@ -8,7 +8,7 @@ from numpy import log1p
 pd.set_option('display.max_columns', None)
 pd.set_option('display.width', None)
 
-df = pd.read_csv(r"C:\Users\E. Praneeth Goud\Downloads\ak (1).csv")
+df = pd.read_csv(r"uncleaned zomato dataset.csv")
 
 print(df.head())
 df.info()

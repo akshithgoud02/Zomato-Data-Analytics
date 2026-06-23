@@ -1,6 +1,5 @@
-# 🍽️ Zomato Data Analytics
-
-This project analyzes Zomato restaurant data using Python to extract meaningful insights.
+#  Zomato Restaurants Data Analysis Project
+This project analyzes Zomato restaurants data using Python & its libraries to extract meaningful insights.
 
 ## 📌 Features
 - Data cleaning and preprocessing
@@ -18,19 +17,18 @@ This project analyzes Zomato restaurant data using Python to extract meaningful 
 
 ## ⚠️ Dataset
 Dataset is not included due to size limitations,the dataset is hosted externally.
-- Cleaned Dataset: https://drive.google.com/file/d/1rqtRwKBVRgvNmKo8MdhIafnrFSn_i4NH/view?usp=sharing
-- Uncleaned Dataset: https://drive.google.com/file/d/1QBWdGE4PkaipPs_QnB7l2WsAaE0vOtda/view?usp=sharing
+- Cleaned Dataset:https://drive.google.com/file/d/1QBWdGE4PkaipPs_QnB7l2WsAaE0vOtda/view?usp=sharing
+
+- Uncleaned Dataset:https://drive.google.com/file/d/1rqtRwKBVRgvNmKo8MdhIafnrFSn_i4NH/view?usp=sharing
 
 ## 🚀 How to Run
 
-1. Clone the repository:
-   git clone https://github.com/akshithgoud02/Zomato-Data-Analytics.git
-   cd Zomato-Data-Analytics
+1. Download project using GitHub
 
-2. Install dependencies:
+2. Download Uncleaned Dataset from links provided above and place in project folder.
+
+3. Install dependencies:
    pip install pandas numpy
-
-3. Download dataset from links provided above and place in project folder.
 
 4. Run the script:
    python pydatanalysis.py
